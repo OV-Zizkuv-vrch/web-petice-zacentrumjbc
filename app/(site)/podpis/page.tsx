@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { ContentPage } from '../../components/ContentPage';
 import { EPETITION_URL, OG_IMAGE } from '../../config';
 
-const PODPISOVY_ARCH_URL = '/files/petice-tramvaj.docx';
+const PODPISOVY_ARCH_URL = '/files/petice-tramvaj.pdf';
 
 export const metadata: Metadata = {
   title: 'Podepsat petici – tramvaj mimo centrum Jablonce',
